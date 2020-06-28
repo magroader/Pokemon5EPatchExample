@@ -1,0 +1,14 @@
+{
+  "name": "Nature Rename Example",
+  "description": "Shows how to change the names of some Natures.",
+  "data": {
+    "Nature": {
+      "Dumb": {
+        "DisplayName": "Quiet"
+      },
+      "Cocky": {
+        "DisplayName": "Smug"
+      }
+    }
+  }
+}

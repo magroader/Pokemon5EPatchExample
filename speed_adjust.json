@@ -1,0 +1,11 @@
+{
+  "name": "Speed Adjustment Example",
+  "description" :  "Shows how to adjust the walking speed of a single Pokemon.",
+  "data": {
+    "Pokedex": {
+      "Electrode": {
+        "WSp": 50
+      }
+    }
+  }
+}
